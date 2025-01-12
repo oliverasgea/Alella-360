@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" apprev="20981" start="node6" appversion="7.1.7">
+  <panorama id="node6">
+    <input levelbias="0.400" leveltilesize="510" levelingpitch="0" width="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-164.504" fovmode="2">
+      <start fov="95.1727" projection="4" pan="76.524" tilt="-17.0481"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" altitude="500.98" heading="-164.504" latitude="41.45179051" tags="360" info="" comment="" copyright="" longitude="2.25648196" datetime="09/01/2025 07:23" title="Alella, Mas Coll" nodeid="node6" source="" customnodeid="" description=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" width="180" enabled="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" id="Point01" url="{node5}" pan="-312.88" tilt="-8.73" title="Alella, Coma Fosca" distance="5162.09" description=""/>
+      <hotspot skinid="ht_node" target="" id="Point03" url="{node8}" pan="-266.69" tilt="-4.68" title="Alella, Rials" distance="6439.28" description=""/>
+      <hotspot skinid="ht_node" target="124.427/0/100" id="Point02" url="{node9}" pan="-215.988" tilt="0" title="Langhe, Piedmont" distance="583116" description=""/>
+      <hotspot description="" skinid="ht_image" target="" title="" id="Point04" url="images/2nd Vallmora vinya.jpg" pan="-324.54" tilt="-19.44"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" id="_background" mode="0" loop="0" pan="-1.000" tilt="-1.000" ambientlevel="0.000" field="90.000" pansize="10.000" nodechangekeep="1" startmutedmobile="0" tiltsize="10.000">
+        <source url="media/Crickets in a hot summer day.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomout="0" zoomoutpause="1" enabled="1" zoomafteroutfov="40" zoomin="0" blendtime="1" softedge="0" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextfullscreen="1" sensitivity="8" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" hideabout="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" leveltilesize="510" levelingpitch="0" width="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-199.656" fovmode="2">
+      <start fov="95.1727" projection="4" pan="32.5574" tilt="-18.1271"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" altitude="528.28" heading="-199.656" latitude="41.495841" tags="360" info="" comment="" copyright="" longitude="2.276039" datetime="09/01/2025 07:29" title="Alella, Coma Fosca" nodeid="node5" source="" customnodeid="" description=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" width="180" enabled="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" id="Point01" url="{node6}" pan="-146.76" tilt="-5.05" title="Alella, Mas Coll" distance="5162.09" description=""/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" url="{node8}" pan="-261.556" tilt="-8.22" title="Alella, Rials" distance="2300.78" description=""/>
+      <hotspot description="" skinid="ht_url" target="_blank" title="Alta Alella" id="Point03" url="https://altaalella.wine" pan="-326.66" tilt="-22.64"/>
+      <hotspot description="" skinid="ht_url" target="_blank" title="Quim Batlle" id="Point04" url="https://www.vinosdealella.com/" pan="-88.63" tilt="-29.04"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" id="_background" mode="0" loop="0" pan="-1.000" tilt="-1.000" ambientlevel="0.000" field="90.000" pansize="10.000" nodechangekeep="1" startmutedmobile="0" tiltsize="10.000">
+        <source url="media/Crickets in a hot summer day.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomout="0" zoomoutpause="1" enabled="1" zoomafteroutfov="40" zoomin="0" blendtime="1" softedge="0" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextfullscreen="1" sensitivity="8" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" hideabout="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" leveltilesize="510" levelingpitch="0" width="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-162.329" fovmode="2">
+      <start fov="95.1727" projection="4" pan="-13.0521" tilt="-13.0914"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" altitude="309.71" heading="-162.329" latitude="41.497724" tags="360" info="" comment="" copyright="" longitude="2.303550" datetime="22/12/2024 04:17" title="Alella, Rials" nodeid="node8" source="" customnodeid="" description=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" width="180" enabled="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" url="{node5}" pan="-67.1167" tilt="0" title="Alella, Coma Fosca" distance="2300.78" description=""/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" url="{node9}" pan="-213.998" tilt="0" title="Langhe, Piedmont" distance="576869" description=""/>
+      <hotspot description="" skinid="ht_url" target="_blank" title="Bodegas Roura" id="Point03" url="https://www.roura.es/" pan="-286.42" tilt="-57.29"/>
+      <hotspot description="" skinid="ht_url" target="_blank" title="La Vinicola d'Alella" id="Point04" url="https://www.cellermarfil.com/" pan="-40.74" tilt="-20.03"/>
+      <hotspot description="" skinid="ht_image" target="" title="La Vinya Vella" id="Point05" url="images/_DSC6924.jpg" pan="-247.13" tilt="-20.32"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" id="_background" mode="0" loop="0" pan="-1.000" tilt="-1.000" ambientlevel="0.000" field="90.000" pansize="10.000" nodechangekeep="1" startmutedmobile="0" tiltsize="10.000">
+        <source url="media/Crickets in a hot summer day.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomout="0" zoomoutpause="1" enabled="1" zoomafteroutfov="40" zoomin="0" blendtime="1" softedge="0" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextfullscreen="1" sensitivity="8" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" hideabout="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" leveltilesize="510" levelingpitch="0" width="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="95.1727" projection="4" pan="-43.1182" tilt="-17.4468"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" altitude="933.31" heading="0" latitude="44.577940" tags="360Views|Snow" info="" comment="" copyright="" longitude="8.018611" datetime="07/12/2024 11:35" title="Langhe, Piedmont" nodeid="node9" source="" customnodeid="" description=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" width="180" enabled="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="-182.897/0/100" id="Point02" url="{node6}" pan="124.582" tilt="0" title="Alella, Mas Coll" distance="583116" description=""/>
+    </hotspots>
+    <media>
+      <sound level="1.000" id="_background" mode="0" loop="0" pan="-1.000" tilt="-1.000" ambientlevel="0.000" field="90.000" pansize="10.000" nodechangekeep="0" startmutedmobile="0" tiltsize="10.000">
+        <source url="media/Audiio_ConstantWindGust.wav" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomout="0" zoomoutpause="1" enabled="1" zoomafteroutfov="40" zoomin="0" blendtime="1" softedge="0" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextfullscreen="1" sensitivity="8" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" hideabout="0" simulatemass="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" copyright="" comment="" title="" tags="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
